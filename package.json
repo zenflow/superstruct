@@ -1,5 +1,5 @@
 {
-  "name": "superstruct",
+  "name": "@zen_flow/superstruct",
   "type": "module",
   "description": "A simple, expressive way to validate data in JavaScript.",
   "version": "0.10.12",
